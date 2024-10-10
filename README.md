@@ -14,6 +14,8 @@ Aqui se realizan las practicas en Django que es un framework U2
 12. Ejecutar el servidor: --> python manage.py runserver
 13. Realizar migracion: --> python manage.py migrate
 14. Volver a correr el servidor
+- ![image](https://github.com/user-attachments/assets/2d42136f-d056-4737-94fd-8d38881e7d2b)
+
 
 
 
